@@ -5,3 +5,6 @@ Membro ativo da comunidade OpenSource, já organizei vários eventos incluindo o
 
 ---
 Trabalho como Head de Engenharia na [crmpiperun.com](https://crmpiperun.com) e sou apaixonado por programação desde 2007, atualmente atuo com Sistemas Web utilizando as tecnologias: Linux, K8S, Docker, PHP, Python, Bash, OCI, AWS e mais um monte de outros acrónimos.
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=tonybolzan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
